@@ -3,7 +3,7 @@
 
 Check out the originals here.  Your 2020 based enclosed printer will thank you:
 
-https://github.com/Annex-Engineering/Other_Printer_Mods/tree/master/All_Printers/Annex_Panel_2020_Clips_and_Hinges
+[https://github.com/Annex-Engineering/Other_Printer_Mods/tree/master/All_Printers/Annex_Panel_2020_Clips_and_Hinges](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges)
 
 ### Currently Supported Sizes
 The files available work with combined panel thicknesses of 4mm and now 5.5mm(thanks risqqy!).  4mm is appropriate for standard 3mm panels with 1mm foam tape.  Other sizes aren't prepared, but can be easily modded using the provided CAD.
